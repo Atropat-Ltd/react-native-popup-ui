@@ -29,5 +29,8 @@
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.60.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@dena-rn-dialog"
+  }
 }
